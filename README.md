@@ -1,13 +1,13 @@
 # python_mystudy
 -python basic programming 
 
-*Algorithm*
+* *Algorithm*
 
-*Fundamental concept in python*
+* *Fundamental concept in python*
 
-*crawling*
+* *crawling*
 
-*package*
+* *package*
 
 -pytorch basic 
 
