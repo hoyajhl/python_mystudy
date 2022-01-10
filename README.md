@@ -9,8 +9,10 @@
 
 * *package*
 
--pytorch basic 
-
+-pytorch basic
+* *MLP*
+* *CNN*
+* *U-net*
 
 References
 
